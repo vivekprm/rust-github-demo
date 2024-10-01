@@ -1,0 +1,1 @@
+/Users/v.mishra/go/src/github.com/vivekprm/rust-github-demo/hello-marco/target/debug/hello-marco: /Users/v.mishra/go/src/github.com/vivekprm/rust-github-demo/hello-marco/src/lib.rs /Users/v.mishra/go/src/github.com/vivekprm/rust-github-demo/hello-marco/src/main.rs
